@@ -6,20 +6,23 @@
 
 1. 프로젝트 개요
 
-   가나다
-  - 프로젝트 주제 및 선정 배경
-  - 개발 및 수행 목표
+   3D,퍼즐게임
+
+   총 2스테이지까지 개발하였으며 3개의 퍼즐과 2개의 도전이 있다.
+   도전에는 퍼즐에 없는 제한시간과 체력 개념이 있어 죽을 경우 해당 스테이지를 처음부터 플레이하게 된다.
   
 2. 팀 소개
-  - 사진
-  - 이름
-  - 이메일
-  - 역할
-  - 깃허브(또는 개인사이트)
+
+   권내규 : azaz7784689@gmail.com, 기획 UI개발 팀장 담당
+
+   송도현 : ghuijeong67@gmail.com, 기획 시스템 개발 퍼즐 기획과 디자인 담당
 
 3. 사용 기술
-  - 개발에 사용한 기술
-  - 개발에 소요된 물품 및 준비물
+
+  유니티 사용, 사용된 에셋 링크
+
+  1. https://assetstore.unity.com/packages/3d/environments/kubikos-3d-cube-world-117341
+  2. https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/kubikos-rpg-rts-20-animated-cube-mini-units-124481
 
 4. 프로젝트 진행 과정(월별 진행상황)
 
