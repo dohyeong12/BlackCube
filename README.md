@@ -13,7 +13,7 @@
   
 2. 팀 소개
 
-   권내규 : azaz7784689@gmail.com, 기획 UI개발 팀장 담당
+   권내규 : azaz7788689@gmail.com, 기획 UI개발 팀장 담당
 
    송도현 : ghuijeong67@gmail.com, 기획 시스템 개발 퍼즐 기획과 디자인 담당
 
