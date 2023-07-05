@@ -19,14 +19,18 @@
 
 3. 사용 기술
 
-    유니티 사용, 사용된 에셋 링크
+    유니티 사용,
 
-  1. https://assetstore.unity.com/packages/3d/environments/kubikos-3d-cube-world-117341
-  2. https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/kubikos-rpg-rts-20-animated-cube-mini-units-124481
 
-4. 프로젝트 진행 과정(월별 진행상황)
+    사용된 에셋 링크
 
-5. 프로젝트 상세 소개
+    https://assetstore.unity.com/packages/3d/environments/kubikos-3d-cube-world-117341
+
+    https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/kubikos-rpg-rts-20-animated-cube-mini-units-124481
+
+5. 프로젝트 진행 과정(월별 진행상황)
+
+6. 프로젝트 상세 소개
   - 레이아웃 세부 설명
   - 데이터베이스 / 데이터플로우 / 시스템 구조
   - 사용자 수행에 따른 세부 동작 과정
