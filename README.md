@@ -19,7 +19,7 @@
 
 3. 사용 기술
 
-  유니티 사용, 사용된 에셋 링크
+    유니티 사용, 사용된 에셋 링크
 
   1. https://assetstore.unity.com/packages/3d/environments/kubikos-3d-cube-world-117341
   2. https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/kubikos-rpg-rts-20-animated-cube-mini-units-124481
